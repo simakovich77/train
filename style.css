@@ -1,0 +1,13 @@
+.active
+{
+
+    z-index:10;
+    display:block;
+}
+
+
+li {
+    position: absolute;
+    list-style-type: none; /* Убираем маркеры */
+    z-index:0;
+}
